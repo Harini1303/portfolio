@@ -104,7 +104,7 @@ education = """
 
 
 st.write(education,unsafe_allow_html=True)
-st.write('hi')
+
 st.subheader("Professional Experience")
 
 experience="""
