@@ -1,0 +1,56 @@
+
+.education-section {
+    border-top: 2px solid black;
+    padding-top: 10px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.degree {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.institution {
+    font-style: italic;
+}
+
+.details {
+    margin-top: 5px;
+}
+.details-list ul{
+    list-style-type:circle;
+    padding-left:20px;
+}
+.details-list p{
+    margin:0;
+    font-style:normal;
+}
+.Experience{
+    border-top: 2px solid black;
+    padding-top: 10px;
+}
+.skills-section{
+    border-top: 2px solid black;
+    padding-top: 10px;
+}
+.projects{
+    border-top: 2px solid black;
+    padding-top: 10px;
+}
+.profile-pic {
+    width: 230px; /* Ensure the width is consistent with the Streamlit code */
+    height: 230px; /* Ensure the height is consistent with the Streamlit code */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image covers the whole container */
+}
+.centered-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: medium;
+}
