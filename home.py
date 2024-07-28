@@ -58,7 +58,7 @@ with col2:
 with col3:
     st.markdown('<div class="centered-text">Chennai</div>', unsafe_allow_html=True)
 
-st.write("hello")
+
 st.subheader("EDUCATION")
 
 education = """
