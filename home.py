@@ -12,7 +12,7 @@ PAGE_TITLE="DIGITAL CV || HARINI"
 PAGE_ICON=":wave:"
 NAME = "K Harini"
 DESCRIPTION = """
-I am a 4th-year B.Tech CSE student, passionate about machine learning. An eager learner, determined, and hardworking, I am dedicated to expanding my knowledge and achieving excellence in my studies and future career.
+Passionate and technically adept, I thrive in roles that bridge technology and customer satisfaction. With hands-on experience in data analysis, machine learning, and web technologies, I bring a strategic mindset and strong communication skills to ensure customers derive maximum value from innovative solutions. My goal is to enhance customer experiences by delivering tailored, data-driven insights.
 """
 EMAIL = "harini.kesavarapu@gmail.com"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
