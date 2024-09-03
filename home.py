@@ -168,6 +168,16 @@ projects="""
 <div class=projects>
     <div class=proj>
         <div class="degree">
+            <strong>  Interactive Resume Chatbot Using HTML, CSS, and JavaScript</strong>
+        </div>
+        <div class=details>
+            <p> This project involves creating an interactive chatbot for a personal portfolio website.By leveraging HTML, CSS, 
+and JavaScript, this chatbot provides a simple yet effective way to engage visitors and provide them with relevant 
+information from the resume.</p>
+        </div>
+    </div>
+    <div class=proj>
+        <div class="degree">
             <strong> Automated Product Data Extraction and Analysis(Data Engineering)</strong>
         </div>
         <div class=details>
