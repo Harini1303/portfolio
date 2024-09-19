@@ -12,7 +12,7 @@ PAGE_TITLE="DIGITAL CV || HARINI"
 PAGE_ICON=":wave:"
 NAME = "K Harini"
 DESCRIPTION = """
-Passionate and technically adept, I thrive in roles that bridge technology and customer satisfaction. With hands-on experience in data analysis, machine learning, and web technologies, I bring a strategic mindset and strong communication skills to ensure customers derive maximum value from innovative solutions. My goal is to enhance customer experiences by delivering tailored, data-driven insights.
+A dedicated and detail-oriented computer science student with hands-on experience in data science, machine learning, and web development. Skilled in Python, JavaScript, and data analysis, with a proven ability to solve complex problems. Eager to apply technical expertise to real-world challenges and contribute to innovative solutions.
 """
 EMAIL = "harini.kesavarapu@gmail.com"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
