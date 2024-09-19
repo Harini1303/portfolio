@@ -4,7 +4,7 @@ from PIL import Image
 
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-resume_file = current_dir / "125157032_K_Harini.pdf"
+resume_file = current_dir / "HariniK_Resume.pdf"
 profile_pic = current_dir / "photo_resume.jpg"
 css_file = current_dir / "styles.css"
 
