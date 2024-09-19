@@ -149,14 +149,13 @@ st.subheader("Skills")
 skills = """
 <div class="skills-section">
     <div class="skills-item">
-        <strong>C</strong> &bull;  <!-- &bull; is a bullet point -->
+         <!-- &bull; is a bullet point -->
         <strong>C++</strong> &bull; 
-        <strong>Java</strong> &bull; 
         <strong>Python</strong> &mdash; Numpy, Pandas, Scikit, Matplotlib, Seaborn, Plotly &bull; <!-- &mdash; is an em dash -->
         <strong>SQL</strong> &bull; 
         <strong>Data Structures and Algorithms</strong> &bull; 
         <strong>Machine Learning Algorithms</strong> &bull; 
-        <strong>Fundamentals of Cryptography and Cryptanalysis</strong>
+        <strong>Fundamentals of Cryptography</strong>
     </div>
 </div>
 """
