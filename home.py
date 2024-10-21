@@ -4,7 +4,7 @@ from PIL import Image
 
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-resume_file = current_dir / "HariniK_Resume.pdf"
+resume_file = current_dir / "125157032_Harini.pdf"
 profile_pic = current_dir / "photo_resume.jpg"
 css_file = current_dir / "styles.css"
 
@@ -12,7 +12,7 @@ PAGE_TITLE="DIGITAL CV || HARINI"
 PAGE_ICON=":wave:"
 NAME = "K Harini"
 DESCRIPTION = """
-A dedicated and detail-oriented computer science student with hands-on experience in data science, machine learning, and web development. Skilled in Python, JavaScript, and data analysis, with a proven ability to solve complex problems. Eager to apply technical expertise to real-world challenges and contribute to innovative solutions.
+A highly motivated and detail-oriented final-year B.Tech student in Computer Science and Engineering with a specialization in Cyber Security and Blockchain Technology at SASTRA University. With hands-on experience in Solidity programming and deploying smart contracts using Truffle and Ganache, I possess a solid foundation in blockchain development. Alongside strong technical skills in Python, data analysis, and machine learning, I am dedicated to applying my knowledge to innovative solutions in the blockchain industry, driven by a passion for cutting-edge technology and continuous learning.
 """
 EMAIL = "harini.kesavarapu@gmail.com"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -151,11 +151,16 @@ skills = """
     <div class="skills-item">
          <!-- &bull; is a bullet point -->
         <strong>C++</strong> &bull; 
-        <strong>Python</strong> &mdash; Numpy, Pandas, Scikit, Matplotlib, Seaborn, Plotly &bull; <!-- &mdash; is an em dash -->
+        <strong>Solidity Programming</strong>
+         <strong>Blockchain</strong>
+       
         <strong>SQL</strong> &bull; 
         <strong>Data Structures and Algorithms</strong> &bull; 
         <strong>Machine Learning Algorithms</strong> &bull; 
         <strong>Fundamentals of Cryptography</strong>
+         
+        
+        
     </div>
 </div>
 """
@@ -177,10 +182,12 @@ information from the resume.</p>
     </div>
     <div class=proj>
         <div class="degree">
-            <strong> Automated Product Data Extraction and Analysis(Data Engineering)</strong>
+            <strong>  Smart Contract Deployment and Testing using Truffle and Ganache</strong>
         </div>
         <div class=details>
-            <p> This project automates the extraction of product details from Amazon.in using Selenium. It logs in, searches for products, collects data on names, prices, reviews, and ratings, handles missing values, and exports the information to a CSV file for further analysis</p>
+            <p>  Deployed a smart contract using Truffle and Ganache, implementing a simple contract to set and retrieve values. 
+Managed project setup, configuration, and compilation with Truffle, and configured network settings for 
+deployment. Developed and tested the contract in Solidity (v0.8.14) within a local blockchain environment.</p>
         </div>
     </div>
     <div class=proj>
