@@ -151,8 +151,8 @@ skills = """
     <div class="skills-item">
          <!-- &bull; is a bullet point -->
         <strong>C++</strong> &bull; 
-        <strong>Solidity Programming</strong>
-         <strong>Blockchain</strong>
+        <strong>Solidity Programming</strong> &bull
+         <strong>Blockchain</strong> &bull
        
         <strong>SQL</strong> &bull; 
         <strong>Data Structures and Algorithms</strong> &bull; 
