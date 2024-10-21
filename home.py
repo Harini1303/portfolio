@@ -149,21 +149,18 @@ st.subheader("Skills")
 skills = """
 <div class="skills-section">
     <div class="skills-item">
-         <!-- &bull; is a bullet point -->
+        <!-- &bull; is a bullet point -->
         <strong>C++</strong> &bull; 
-        <strong>Solidity Programming</strong> &bull;
-         <strong>Blockchain</strong> &bull;
-       
+        <strong>Solidity Programming</strong> &bull; 
+        <strong>Blockchain</strong> &bull; 
         <strong>SQL</strong> &bull; 
         <strong>Data Structures and Algorithms</strong> &bull; 
         <strong>Machine Learning Algorithms</strong> &bull; 
         <strong>Fundamentals of Cryptography</strong>
-         
-        
-        
     </div>
 </div>
 """
+
 st.write(skills,unsafe_allow_html=True)
 
 st.subheader("Projects")
